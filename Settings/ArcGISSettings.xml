@@ -1,0 +1,304 @@
+﻿<DockSiteLayout xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SerializationFormat="ToolWindowsOnly" Version="2">
+	<AutoHideHost>
+		<AutoHideTabStrip Side="Left">
+			<ToolWindowContainer DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="358,877" CreationDateTime="2022-04-14T09:10:49.2443134-05:00" UniqueId="089630e0-e938-411e-ab9d-c379baf0ada5" />
+				<UIElement xsi:type="Track" ContainerDockedSize="358,877" CreationDateTime="2022-04-14T09:10:49.2512845-05:00" UniqueId="2a1919cf-0de4-476b-a6e9-9c51cad00eca" />
+			</ToolWindowContainer>
+		</AutoHideTabStrip>
+		<AutoHideTabStrip Side="Top">
+			<ToolWindowContainer DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="924,438.5" CreationDateTime="2021-11-28T18:11:05.4919826-06:00" UniqueId="5c933801-e161-447a-81d8-6844428dd534" />
+			</ToolWindowContainer>
+		</AutoHideTabStrip>
+		<AutoHideTabStrip Side="Right">
+			<ToolWindowContainer DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="421,487" CreationDateTime="2022-01-14T14:37:29.7332974-06:00" UniqueId="6508b474-bf7d-404d-b54c-b670cda9fd27" />
+				<UIElement xsi:type="Track" ContainerDockedSize="421,487" CreationDateTime="2022-05-06T15:56:02.2998785-05:00" UniqueId="3210df96-de9d-4bdc-a947-50d116bd8bdb" />
+			</ToolWindowContainer>
+			<ToolWindowContainer DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="292,641" CreationDateTime="2022-05-06T15:56:09.2167871-05:00" UniqueId="e0467d03-fb79-4407-80d6-7e5e1f33bf82" />
+			</ToolWindowContainer>
+			<ToolWindowContainer DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="179,877" CreationDateTime="2022-03-08T13:25:21.8097812-06:00" UniqueId="ac4b5017-3e9f-45ca-acdb-3f1571e6aaf7" />
+				<UIElement xsi:type="Track" ContainerDockedSize="514,438.5" CreationDateTime="2021-11-24T14:25:49.4406952-06:00" UniqueId="d5cabfe2-4bff-4188-845f-041f63f00fce" />
+			</ToolWindowContainer>
+			<ToolWindowContainer DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="320,384" CreationDateTime="2021-03-12T11:14:36.8869584-06:00" UniqueId="2361bf39-007b-45ed-9790-a36f3dd9664f" />
+			</ToolWindowContainer>
+			<ToolWindowContainer DockedSize="292,641" SelectedWindowUniqueId="77b9c1d0-062e-4fea-9626-913609bc2f2c">
+				<UIElement xsi:type="ToolWindowRef" UniqueId="77b9c1d0-062e-4fea-9626-913609bc2f2c" />
+			</ToolWindowContainer>
+			<ToolWindowContainer DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="320,641" CreationDateTime="2021-05-19T14:05:35.8520458-05:00" UniqueId="67b0b90a-e840-4e45-814f-d0037ecc5c40" />
+			</ToolWindowContainer>
+		</AutoHideTabStrip>
+	</AutoHideHost>
+	<Content xsi:type="SplitContainer" Orientation="Horizontal" DockedSize="1882,877">
+		<UIElement xsi:type="ToolWindowContainer" DockedSize="358,969" SelectedWindowUniqueId="089630e0-e938-411e-ab9d-c379baf0ada5">
+			<UIElement xsi:type="ToolWindowRef" UniqueId="089630e0-e938-411e-ab9d-c379baf0ada5" />
+			<UIElement xsi:type="ToolWindowRef" UniqueId="2a1919cf-0de4-476b-a6e9-9c51cad00eca" />
+		</UIElement>
+		<UIElement xsi:type="SplitContainer" Orientation="Vertical" DockedSize="2244,877">
+			<UIElement xsi:type="SplitContainer" Orientation="Horizontal" DockedSize="1542,641">
+				<UIElement xsi:type="SplitContainer" Orientation="Vertical" DockedSize="1585,877">
+					<UIElement xsi:type="SplitContainer" Orientation="Horizontal" DockedSize="1585,487">
+						<UIElement xsi:type="SplitContainer" Orientation="Vertical" DockedSize="2285,877">
+							<UIElement xsi:type="SplitContainer" Orientation="Horizontal" DockedSize="2285,747">
+								<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+									<UIElement xsi:type="Track" ContainerDockedSize="320,747" CreationDateTime="2022-01-19T16:18:32.1544485-06:00" UniqueId="67b0b90a-e840-4e45-814f-d0037ecc5c40" />
+								</UIElement>
+								<UIElement xsi:type="Workspace">
+									<Content xsi:type="TabbedMdiHost" />
+								</UIElement>
+								<UIElement xsi:type="ToolWindowContainer" DockedSize="419,747" SelectedWindowUniqueId="5c933801-e161-447a-81d8-6844428dd534">
+									<UIElement xsi:type="ToolWindowRef" UniqueId="ac4b5017-3e9f-45ca-acdb-3f1571e6aaf7" />
+									<UIElement xsi:type="Track" ContainerDockedSize="419,747" CreationDateTime="2022-04-14T08:51:11.543418-05:00" UniqueId="7ddc3fa0-6505-4fa0-803f-4d249cc66e19" />
+									<UIElement xsi:type="ToolWindowRef" UniqueId="5c933801-e161-447a-81d8-6844428dd534" />
+									<UIElement xsi:type="Track" ContainerDockedSize="419,747" CreationDateTime="2022-05-09T12:40:01.9477251-05:00" UniqueId="d5cabfe2-4bff-4188-845f-041f63f00fce" />
+									<UIElement xsi:type="ToolWindowRef" UniqueId="3210df96-de9d-4bdc-a947-50d116bd8bdb" />
+									<UIElement xsi:type="ToolWindowRef" UniqueId="e0467d03-fb79-4407-80d6-7e5e1f33bf82" />
+									<UIElement xsi:type="Track" ContainerDockedSize="419,747" CreationDateTime="2022-05-09T12:40:05.6211919-05:00" UniqueId="eccf1265-5ba2-4489-8428-c163099c1da7" />
+								</UIElement>
+							</UIElement>
+							<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+								<UIElement xsi:type="Track" ContainerDockedSize="2285,124" CreationDateTime="2021-11-24T14:19:23.670866-06:00" UniqueId="3c7a554f-a8d0-4807-80b7-ee8f72b250dd" />
+							</UIElement>
+						</UIElement>
+						<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+							<UIElement xsi:type="Track" ContainerDockedSize="421,487" CreationDateTime="2022-01-14T14:37:32.3803933-06:00" UniqueId="6508b474-bf7d-404d-b54c-b670cda9fd27" />
+						</UIElement>
+						<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+							<UIElement xsi:type="Track" ContainerDockedSize="320,487" CreationDateTime="2021-02-24T13:02:13.9519441-06:00" UniqueId="513f4e67-eeae-45a8-8660-948bb2846304" />
+						</UIElement>
+						<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+							<UIElement xsi:type="Track" ContainerDockedSize="446,487" CreationDateTime="2022-04-14T10:24:42.3960393-05:00" UniqueId="b70b0b20-9eeb-4958-8ce8-d72818c4213a" />
+						</UIElement>
+						<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+							<UIElement xsi:type="Track" ContainerDockedSize="288,384" CreationDateTime="2021-01-21T07:44:54.9011603-06:00" UniqueId="f0885194-68dd-496f-a2da-7ad4ad7c0d44" />
+						</UIElement>
+					</UIElement>
+					<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+						<UIElement xsi:type="Track" ContainerDockedSize="288,384" CreationDateTime="2021-01-27T12:54:51.2482676-06:00" UniqueId="bf5e68f8-621b-4bb5-b541-a71b4c65e44e" />
+					</UIElement>
+				</UIElement>
+				<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+					<UIElement xsi:type="Track" ContainerDockedSize="288,384" CreationDateTime="2021-01-28T13:29:37.3970927-06:00" UniqueId="cb7aab7f-4cc2-4f1b-a3ec-9ed70f7bf92e" />
+				</UIElement>
+				<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+					<UIElement xsi:type="Track" ContainerDockedSize="288,641" CreationDateTime="2022-03-08T13:25:17.8723646-06:00" UniqueId="f4c60725-532c-4747-85d4-db6d32061272" />
+				</UIElement>
+				<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+					<UIElement xsi:type="Track" ContainerDockedSize="288,384" CreationDateTime="2021-02-02T14:11:33.3324465-06:00" UniqueId="14502d4b-aaa4-4b1a-a92c-88c6a90de74f" />
+				</UIElement>
+				<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+					<UIElement xsi:type="Track" ContainerDockedSize="292,641" CreationDateTime="2021-10-18T09:26:48.8280044-05:00" UniqueId="77b9c1d0-062e-4fea-9626-913609bc2f2c" />
+				</UIElement>
+				<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+					<UIElement xsi:type="Track" ContainerDockedSize="288,641" CreationDateTime="2022-01-04T19:47:08.0700895-06:00" UniqueId="1f69d0f3-8924-41fb-94ae-882c43ab2e9b" />
+				</UIElement>
+				<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+					<UIElement xsi:type="Track" ContainerDockedSize="288,384" CreationDateTime="2021-02-23T10:36:00.9559946-06:00" UniqueId="19da0297-5acc-4b4e-956c-dd550fe2afa6" />
+				</UIElement>
+				<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+					<UIElement xsi:type="Track" ContainerDockedSize="288,384" CreationDateTime="2021-02-23T10:46:58.9057987-06:00" UniqueId="d6048ecd-9f14-42c6-afaf-30a04f2a1f86" />
+				</UIElement>
+				<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+					<UIElement xsi:type="Track" ContainerDockedSize="320,384" CreationDateTime="2021-03-12T11:14:32.6113959-06:00" UniqueId="2361bf39-007b-45ed-9790-a36f3dd9664f" />
+				</UIElement>
+			</UIElement>
+			<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="1589,230" CreationDateTime="2021-03-15T07:59:27.0290725-05:00" UniqueId="5444ee30-1f03-440a-bd41-97a3f41d5d71" />
+			</UIElement>
+		</UIElement>
+		<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+			<UIElement xsi:type="Track" ContainerDockedSize="288,877" CreationDateTime="2021-03-12T15:38:02.7180079-06:00" UniqueId="9c974ded-7fe1-40e0-bac5-d15bd7beb9cf" />
+		</UIElement>
+		<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+			<UIElement xsi:type="Track" ContainerDockedSize="288,877" CreationDateTime="2021-03-12T15:31:52.4992971-06:00" UniqueId="44595499-7ccb-43b5-96e2-dc74a8231cf9" />
+		</UIElement>
+		<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+			<UIElement xsi:type="Track" ContainerDockedSize="320,877" CreationDateTime="2021-05-19T13:46:50.5503992-05:00" UniqueId="eb991ea6-f07c-4d84-b958-d41dc248abd0" />
+		</UIElement>
+		<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+			<UIElement xsi:type="Track" ContainerDockedSize="288,877" CreationDateTime="2021-04-23T12:07:21.8065982-05:00" UniqueId="e0851882-5fa9-468b-9be5-0a61092ffffd" />
+		</UIElement>
+		<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+			<UIElement xsi:type="Track" ContainerDockedSize="662,438.5" CreationDateTime="2021-11-28T14:09:40.1649939-06:00" UniqueId="afa591a3-7ee3-41c1-9444-7c3ea533c788" />
+		</UIElement>
+		<UIElement xsi:type="ToolWindowContainer" DockedSize="0,0">
+			<UIElement xsi:type="Track" ContainerDockedSize="539,438.5" CreationDateTime="2022-01-14T15:11:30.5340215-06:00" UniqueId="b65bea76-cc99-4581-861e-2b99744895ec" />
+		</UIElement>
+	</Content>
+	<RaftingHosts>
+		<RaftingHost UniqueId="dff8d6d5-b736-4649-9c7b-89a604241fa1" Location="-903,181" Size="781,590" WindowState="Normal">
+			<AutoHideHost />
+			<Content xsi:type="ToolWindowContainer" DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="779,588" CreationDateTime="2021-09-21T14:49:22.7378937-05:00" UniqueId="d6048ecd-9f14-42c6-afaf-30a04f2a1f86" />
+			</Content>
+		</RaftingHost>
+		<RaftingHost UniqueId="0a5b5837-15a8-47e8-9ab5-17a6c02c075d" Location="462,28" Size="790,877" WindowState="Normal">
+			<AutoHideHost />
+			<Content xsi:type="ToolWindowContainer" DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="788,875" CreationDateTime="2022-01-19T16:00:44.3702947-06:00" UniqueId="eb991ea6-f07c-4d84-b958-d41dc248abd0" />
+			</Content>
+		</RaftingHost>
+		<RaftingHost UniqueId="516c8104-8d48-4e56-a969-777c3bfa3c29" Location="-864,105" Size="726,647" WindowState="Normal">
+			<AutoHideHost />
+			<Content xsi:type="ToolWindowContainer" DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="724,645" CreationDateTime="2022-01-21T09:43:46.0030241-06:00" UniqueId="2361bf39-007b-45ed-9790-a36f3dd9664f" />
+			</Content>
+		</RaftingHost>
+		<RaftingHost UniqueId="0cc23d9e-1ee0-41f2-a344-e3cb9b966ff4" Location="423,85" Size="853,882" WindowState="Normal">
+			<AutoHideHost />
+			<Content xsi:type="ToolWindowContainer" DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="851,880" CreationDateTime="2022-04-06T13:35:55.7733564-05:00" UniqueId="cb7aab7f-4cc2-4f1b-a3ec-9ed70f7bf92e" />
+			</Content>
+		</RaftingHost>
+		<RaftingHost UniqueId="b496b387-d2f4-4b9b-9353-d23a54eff3e7" Location="0,38" Size="698,942" WindowState="Normal">
+			<AutoHideHost />
+			<Content xsi:type="ToolWindowContainer" DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="696,940" CreationDateTime="2022-04-14T13:39:55.2100361-05:00" UniqueId="6508b474-bf7d-404d-b54c-b670cda9fd27" />
+				<UIElement xsi:type="Track" ContainerDockedSize="696,940" CreationDateTime="2022-01-14T14:37:32.4314281-06:00" UniqueId="3210df96-de9d-4bdc-a947-50d116bd8bdb" />
+			</Content>
+		</RaftingHost>
+		<RaftingHost UniqueId="3e28a9ce-87bc-489d-b6af-067ec2a255a2" Location="1435,574" Size="510,877" WindowState="Normal">
+			<AutoHideHost />
+			<Content xsi:type="ToolWindowContainer" DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="508,875" CreationDateTime="2022-02-11T14:59:56.4117175-06:00" UniqueId="6d6a517a-b616-4d42-8cc0-3d82e3769532" />
+			</Content>
+		</RaftingHost>
+		<RaftingHost UniqueId="cdf19190-02bc-440c-b8f6-912e907eb4d3" Location="1111,278" Size="491,533" WindowState="Normal">
+			<AutoHideHost />
+			<Content xsi:type="ToolWindowContainer" DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="489,531" CreationDateTime="2022-05-03T14:05:49.5472732-05:00" UniqueId="14502d4b-aaa4-4b1a-a92c-88c6a90de74f" />
+			</Content>
+		</RaftingHost>
+		<RaftingHost UniqueId="a38b683f-475e-4c71-a305-215d9f268cc4" Location="-254,-1765" Size="1206,744" WindowState="Normal">
+			<AutoHideHost />
+			<Content xsi:type="ToolWindowContainer" DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="1204,742" CreationDateTime="2022-05-06T15:40:21.7113435-05:00" UniqueId="513f4e67-eeae-45a8-8660-948bb2846304" />
+			</Content>
+		</RaftingHost>
+		<RaftingHost UniqueId="83e54230-541f-41b9-ad73-8999e03c7e11" Location="766,58" Size="662,877" WindowState="Normal">
+			<AutoHideHost />
+			<Content xsi:type="ToolWindowContainer" DockedSize="0,0">
+				<UIElement xsi:type="Track" ContainerDockedSize="660,875" CreationDateTime="2022-05-09T11:02:57.4181792-05:00" UniqueId="afa591a3-7ee3-41c1-9444-7c3ea533c788" />
+				<UIElement xsi:type="Track" ContainerDockedSize="660,875" CreationDateTime="2022-05-06T11:18:39.9248593-05:00" UniqueId="bc5e2d0c-847b-47d1-9234-119d5419b403" />
+				<UIElement xsi:type="Track" ContainerDockedSize="660,875" CreationDateTime="2022-01-14T15:04:32.1057489-06:00" UniqueId="63f3e3f0-9103-4563-af4c-f26b1ffa19ad" />
+				<UIElement xsi:type="Track" ContainerDockedSize="660,875" CreationDateTime="2021-11-28T14:09:40.2570329-06:00" UniqueId="79e0baa1-ff7b-4b21-88c4-44b4c4477a36" />
+				<UIElement xsi:type="Track" ContainerDockedSize="660,875" CreationDateTime="2021-11-28T14:09:40.2570329-06:00" UniqueId="4e0e934b-194a-40da-927a-c3718e0779c6" />
+			</Content>
+		</RaftingHost>
+	</RaftingHosts>
+	<ToolWindows>
+		<ToolWindow UniqueId="7ddc3fa0-6505-4fa0-803f-4d249cc66e19" SerializationId="esri_geoprocessing_suitabilityDockPane" Name="esri_geoprocessing_suitabilityDockPane" ContainerDockedSize="301,877" IsOpen="false" LastActiveDateTime="2022-02-09T12:59:20.5818554-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="6d6a517a-b616-4d42-8cc0-3d82e3769532" SerializationId="esri_mapping_bookmarksManagerDockPane" Name="esri_mapping_bookmarksManagerDockPane" ContainerDockedSize="514,438.5" IsOpen="false" LastActiveDateTime="2021-11-05T09:45:33.8285077-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="4e0e934b-194a-40da-927a-c3718e0779c6" SerializationId="esri_defense_visibilityDockPane" Name="esri_defense_visibilityDockPane" ContainerDockedSize="662,438.5" IsOpen="false" LastActiveDateTime="2021-09-28T16:26:21.6799601-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="19da0297-5acc-4b4e-956c-dd550fe2afa6" SerializationId="esri_datasourcesraster_imageInformationDockPane" Name="esri_datasourcesraster_imageInformationDockPane" ContainerDockedSize="288,384" IsOpen="false" LastActiveDateTime="2021-02-23T10:35:56.3020318-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="1f69d0f3-8924-41fb-94ae-882c43ab2e9b" SerializationId="esri_defense_coordinateConversionDockPane" Name="esri_defense_coordinateConversionDockPane" ContainerDockedSize="288,641" IsOpen="false" LastActiveDateTime="2022-01-04T19:46:55.8035234-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="d6048ecd-9f14-42c6-afaf-30a04f2a1f86" SerializationId="esri_datasourcesraster_measurementResults" Name="esri_datasourcesraster_measurementResults" ContainerDockedSize="779,588" IsOpen="false" LastActiveDateTime="2021-09-21T14:49:19.5567619-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="9c974ded-7fe1-40e0-bac5-d15bd7beb9cf" SerializationId="esri_mapping_animationDockPane" Name="esri_mapping_animationDockPane" ContainerDockedSize="288,877" IsOpen="false" LastActiveDateTime="2021-03-12T15:31:57.0277537-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="e0851882-5fa9-468b-9be5-0a61092ffffd" SerializationId="esri_datasourcesraster_exportRasterData" Name="esri_datasourcesraster_exportRasterData" ContainerDockedSize="288,877" IsOpen="false" LastActiveDateTime="2021-04-23T10:54:32.5381257-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="14502d4b-aaa4-4b1a-a92c-88c6a90de74f" SerializationId="esri_datasourcesraster_rasterProcessDockPane" Name="esri_datasourcesraster_rasterProcessDockPane" ContainerDockedSize="489,531" IsOpen="false" LastActiveDateTime="2022-05-03T14:05:12.5566277-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="bf5e68f8-621b-4bb5-b541-a71b4c65e44e" SerializationId="esri_editing_ErrorInspectorDockPane" Name="esri_editing_ErrorInspectorDockPane" ContainerDockedSize="288,384" IsOpen="false" LastActiveDateTime="2021-01-27T12:54:47.2661921-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="3c7a554f-a8d0-4807-80b7-ee8f72b250dd" SerializationId="esri_geoprocessing_pythonWindow" Name="esri_geoprocessing_pythonWindow" ContainerDockedSize="2285,124" IsOpen="false" LastActiveDateTime="2021-11-24T14:19:20.3475347-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="b70b0b20-9eeb-4958-8ce8-d72818c4213a" SerializationId="esri_mapping_locateDockPane" Name="esri_mapping_locateDockPane" ContainerDockedSize="446,487" IsOpen="false" LastActiveDateTime="2022-04-14T10:21:06.1537244-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="44595499-7ccb-43b5-96e2-dc74a8231cf9" SerializationId="esri_mapping_animationEditorDockPane" Name="esri_mapping_animationEditorDockPane" ContainerDockedSize="288,877" IsOpen="false" LastActiveDateTime="2021-03-12T15:31:16.7382568-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="eccf1265-5ba2-4489-8428-c163099c1da7" SerializationId="esri_mapping_interactiveAnalysisDockPane" Name="esri_mapping_interactiveAnalysisDockPane" ContainerDockedSize="419,747" IsOpen="false" LastActiveDateTime="2022-05-09T12:40:04.1026326-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="5444ee30-1f03-440a-bd41-97a3f41d5d71" SerializationId="esri_mapping_animationTimelineDockPane" Name="esri_mapping_animationTimelineDockPane" ContainerDockedSize="1589,230" IsOpen="false" LastActiveDateTime="2021-03-12T15:38:56.4809997-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="b65bea76-cc99-4581-861e-2b99744895ec" SerializationId="esri_mapping_popupsDockPane" Name="esri_mapping_popupsDockPane" ContainerDockedSize="539,438.5" IsOpen="false" LastActiveDateTime="2022-01-14T15:08:08.9070617-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="f0885194-68dd-496f-a2da-7ad4ad7c0d44" SerializationId="esri_core_notificationDockPane" Name="esri_core_notificationDockPane" ContainerDockedSize="288,384" IsOpen="false" LastActiveDateTime="2021-01-21T07:44:49.950516-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="63f3e3f0-9103-4563-af4c-f26b1ffa19ad" SerializationId="esri_charts_ChartsDockPane" Name="esri_charts_ChartsDockPane" ContainerDockedSize="660,875" IsOpen="false" LastActiveDateTime="2022-01-14T15:04:32.0227473-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="cb7aab7f-4cc2-4f1b-a3ec-9ed70f7bf92e" SerializationId="esri_taskassistant_TaskDesignerDockPane" Name="esri_taskassistant_TaskDesignerDockPane" ContainerDockedSize="851,880" IsOpen="false" LastActiveDateTime="2022-04-06T13:35:43.8921499-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="f4c60725-532c-4747-85d4-db6d32061272" SerializationId="esri_editing_ManageTemplatesDockPane" Name="esri_editing_ManageTemplatesDockPane" ContainerDockedSize="288,641" IsOpen="false" LastActiveDateTime="2022-03-08T13:25:16.3599624-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="089630e0-e938-411e-ab9d-c379baf0ada5" SerializationId="esri_taskassistant_TaskAssistantDockPane" Name="esri_taskassistant_TaskAssistantDockPane" ContainerDockedSize="358,969" IsOpen="true" LastActiveDateTime="2022-05-11T10:10:12.3065414-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="79e0baa1-ff7b-4b21-88c4-44b4c4477a36" SerializationId="esri_geodatabase_createFeatureClassDockPane" Name="esri_geodatabase_createFeatureClassDockPane" ContainerDockedSize="662,438.5" IsOpen="false" LastActiveDateTime="2021-11-08T13:57:40.0425741-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="513f4e67-eeae-45a8-8660-948bb2846304" SerializationId="esri_mapping_labelClassDockPane" Name="esri_mapping_labelClassDockPane" ContainerDockedSize="1204,742" IsOpen="false" LastActiveDateTime="2022-05-06T15:39:30.9046118-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="2361bf39-007b-45ed-9790-a36f3dd9664f" SerializationId="esri_layouts_exportDockPane" Name="esri_layouts_exportDockPane" ContainerDockedSize="724,645" IsOpen="false" LastActiveDateTime="2022-01-21T09:43:45.9910237-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="eb991ea6-f07c-4d84-b958-d41dc248abd0" SerializationId="esri_reports_reportsWizardDockPane" Name="esri_reports_reportsWizardDockPane" ContainerDockedSize="788,875" IsOpen="false" LastActiveDateTime="2022-01-19T15:56:58.002728-06:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="e0467d03-fb79-4407-80d6-7e5e1f33bf82" SerializationId="esri_editing_EditFeaturesDockPane" Name="esri_editing_EditFeaturesDockPane" ContainerDockedSize="419,747" IsOpen="true" LastActiveDateTime="2022-05-09T12:40:05.6171922-05:00" State="Docked" ContainerAutoHideSize="569,200">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="67b0b90a-e840-4e45-814f-d0037ecc5c40" SerializationId="esri_layouts_elementDockPane" Name="esri_layouts_elementDockPane" ContainerDockedSize="320,747" IsOpen="false" LastActiveDateTime="2022-01-19T16:09:23.011191-06:00" State="Docked" ContainerAutoHideSize="347,200">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="3210df96-de9d-4bdc-a947-50d116bd8bdb" SerializationId="esri_editing_CreateFeaturesDockPane" Name="esri_editing_CreateFeaturesDockPane" ContainerDockedSize="419,747" IsOpen="true" LastActiveDateTime="2022-05-09T12:40:13.5124758-05:00" State="Docked" ContainerAutoHideSize="344,200">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="afa591a3-7ee3-41c1-9444-7c3ea533c788" SerializationId="esri_mapping_symbologyDockPane" Name="esri_mapping_symbologyDockPane" ContainerDockedSize="660,875" IsOpen="false" LastActiveDateTime="2022-05-09T11:02:51.3803137-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="6508b474-bf7d-404d-b54c-b670cda9fd27" SerializationId="esri_editing_AttributesDockPane" Name="esri_editing_AttributesDockPane" ContainerDockedSize="696,940" IsOpen="false" LastActiveDateTime="2022-04-14T13:39:22.2021427-05:00" State="Docked" ContainerAutoHideSize="376,200">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="bc5e2d0c-847b-47d1-9234-119d5419b403" SerializationId="esri_sharing_sharingPane" Name="esri_sharing_sharingPane" ContainerDockedSize="660,875" IsOpen="false" LastActiveDateTime="2022-05-06T10:53:45.0243637-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="77b9c1d0-062e-4fea-9626-913609bc2f2c" SerializationId="esri_core_projectHistoryDockPane" Name="esri_core_projectHistoryDockPane" ContainerDockedSize="292,641" IsOpen="true" LastActiveDateTime="2022-05-03T14:13:55.9721144-05:00" State="AutoHide" ContainerAutoHideSize="440,200">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="5c933801-e161-447a-81d8-6844428dd534" SerializationId="esri_mapping_infoDockPane" Name="esri_mapping_infoDockPane" ContainerDockedSize="419,747" IsOpen="true" LastActiveDateTime="2022-05-09T12:40:14.0090863-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="d5cabfe2-4bff-4188-845f-041f63f00fce" SerializationId="esri_geoprocessing_toolBoxes" Name="esri_geoprocessing_toolBoxes" ContainerDockedSize="419,747" IsOpen="false" LastActiveDateTime="2022-05-09T12:39:59.8326549-05:00" State="Docked" ContainerAutoHideSize="587,200">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="ac4b5017-3e9f-45ca-acdb-3f1571e6aaf7" SerializationId="esri_core_projectDockPane" Name="esri_core_projectDockPane" ContainerDockedSize="419,747" IsOpen="true" LastActiveDateTime="2022-05-10T12:47:11.6681581-05:00" State="Docked" ContainerAutoHideSize="325,200">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+		<ToolWindow UniqueId="2a1919cf-0de4-476b-a6e9-9c51cad00eca" SerializationId="esri_core_contentsDockPane" Name="esri_core_contentsDockPane" ContainerDockedSize="358,877" IsOpen="true" LastActiveDateTime="2022-05-10T16:24:11.5281365-05:00" State="Docked">
+			<Tag xsi:type="xsd:boolean">true</Tag>
+		</ToolWindow>
+	</ToolWindows>
+</DockSiteLayout>

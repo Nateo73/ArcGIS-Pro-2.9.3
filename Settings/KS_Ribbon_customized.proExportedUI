@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ArcGIS.Desktop xmlns="http://schemas.esri.com/DADF/Registry">
+  <QAT>esri_core_newProjectButton;esri_core_openProjectButton;esri_core_saveProjectButton;esri_core_undoSplitButton;esri_core_redoSplitButton;esri_mapping_exploreSplitButton;esri_core_editPasteSpecialButton;esri_mapping_clearSelectionButton;esri_layouts_activateMap;esri_mapping_locateSplitButton;</QAT>
+  <modules>
+    <updateModule refID="esri_core_module">
+      <groups>
+        <updateGroup refID="esri_core_clipboardGroup">
+          <deleteButton refID="esri_core_editPasteSplitButton" />
+        </updateGroup>
+      </groups>
+    </updateModule>
+  </modules>
+</ArcGIS.Desktop>
